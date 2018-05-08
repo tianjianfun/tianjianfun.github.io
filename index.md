@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## TianJian.Fun
 
-You can use the [editor on GitHub](https://github.com/tianjianfun/tianjianfun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#田间
+                    清* 汪楫
+小妇扶犁大妇耕，陇头一树有啼莺。
+儿童不解春何在，只向游人多处行。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#田间
 
+                 宋代：陈元晋
+高田折折水连胜，早稻将齐晚稻深。
+闭粜人家争发贷，丰年也有债相寻。 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#忆田间事
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tianjianfun/tianjianfun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+            宋代：项安世
+小盖行障日，枯筇立倚风。
+入田催种稻，行圃看浇葱。 
